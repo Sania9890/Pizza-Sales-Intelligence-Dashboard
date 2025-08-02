@@ -74,17 +74,6 @@ To gain actionable insights from pizza sales data, we aim to:
 
 ---
 
-## 📁 Repository Structure
-```
-Pizza-Sales-Dashboard/
-│
-├── Dataset/           # Sales dataset (anonymized)
-├── Dashboard/         # Power BI file (.pbix)
-└── README.md          # Project documentation
-```
-
----
-
 ## ✅ Outcome
 
 This project simulates real-world retail analytics where key metrics and visualizations drive operational decisions. It demonstrates strong **data storytelling**, **KPI tracking**, and use of **BI tools** aligned with business goals—ideal for data and business analyst roles.
