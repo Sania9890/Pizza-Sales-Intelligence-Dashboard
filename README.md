@@ -1,8 +1,6 @@
 
 # 🍕 Pizza Sales Intelligence Dashboard  
 **Power BI Business Analytics Project**  
-**By Mehek Asad | July–August 2025**
-
 ---
 
 ## 📌 Project Description
